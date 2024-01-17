@@ -1,16 +1,16 @@
-### Hi there 👋
+![profile](./images/cover_3.png)
 
-<!--
-**MatteoSomensi/MatteoSomensi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi everyone 👋
 
-Here are some ideas to get you started:
+My name is **Matteo (he/him)** Android engineer with a passion for clean architecture. Currently, with the goal of establishing himself as a software architect. Trying to make a passion a job…My passion for technology drives me to continuously explore new tools, frameworks, and methodologies to create innovative and impactful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# <<Roads?! Where we're going, we don't need roads!>>
+
+- 🤖 Currently working on: [Android](https://developer.android.com/)
+- 💚 Favorite language: Kotlin!
+- 🍿 Favorite hobby: Watch films and TV series!
+
+## Contact 📬
+
+How to reach me: 
+* [@matteosomensi on Linkedin](https://www.linkedin.com/in/matteosomensi/)
